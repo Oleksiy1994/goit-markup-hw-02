@@ -87,7 +87,7 @@ body {
 
     }
 
-.second .second-studio-list {
+.second-studio-list .person {
 
     font-weight: 500;
     font-size: 16px;
@@ -139,7 +139,7 @@ letter-spacing: 0.02em;
 
 /*-----стилизация шрифтов главной кнопки*/
  
-.main-button-second-conteiner button {
+.main-button-conteiner button {
     font-family: Roboto , sans-serif;
     font-weight: bold;
     font-size: 16px;
